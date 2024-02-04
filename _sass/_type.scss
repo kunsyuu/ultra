@@ -17,9 +17,7 @@ header p strong {
 .post-title {
     background: var(--theme-color);
     margin: 1rem 0;
-    color: white;
     padding: 1rem;
-    font-weight: bold;
     text-align: center;
 }
 
@@ -29,7 +27,7 @@ a,a:visited {
   text-decoration: none;
 
   &:hover {
-    color: dodgerblue;
+    color: white;
   }
 }
 
@@ -80,11 +78,6 @@ pre {
   width: 100%;
 }
 
-.date {
-  opacity: 0.6;
-  color: #a79e8b;
-}
-
 .post-list{
   margin: 0px;
   padding: 0px;
@@ -97,6 +90,11 @@ pre {
 .pagination{
   color: var(--theme-color);
   font-weight: inherit;
+}
+
+.date {
+  opacity: 0.6;
+  color: #a79e8b;
 }
 
 .article p {
