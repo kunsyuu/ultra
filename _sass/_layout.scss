@@ -3,6 +3,7 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  --theme-color: #F08080
 }
 body {
     margin: 0 auto;
@@ -15,10 +16,10 @@ strong, b, h1, h2, h3, h4 {
 }
 
 hr {
-    background: black;
+    background: var(--theme-color);
     border: 0;
     height: 2px;
-    margin: 2rem 0;
+    margin: 2rem 0 0.5rem 0;
     width: 100%;
 }
 
@@ -37,8 +38,9 @@ table {
 }
 
 img {
-    width: 100%;
-    margin: 0.5rem 0;
+    display: block;
+    max-width: 100%;
+    margin: 0.5rem auto;
 }
 
 nav {
@@ -59,4 +61,5 @@ nav {
 
 footer {
     margin: 2rem 0;
+    color: var(--theme-color);
 }

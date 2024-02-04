@@ -5,7 +5,9 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
   zoom: 1;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
+  font-family: 'LXGW WenKai Screen', 'SimSun', 'Noto Serif SC', 'ST Heiti', 'Microsoft YaHei';
+  background-color: #000c07;
 }
 
 header p strong {
@@ -13,16 +15,18 @@ header p strong {
 }
 
 .post-title {
-    background: black;
-    margin: 10rem 0;
+    background: var(--theme-color);
+    margin: 1rem 0;
     color: white;
-    padding: 2rem;
+    padding: 1rem;
     font-weight: bold;
+    text-align: center;
 }
 
 a,a:visited {
-  color: black;
+  color: var(--theme-color);
   font-weight: bold;
+  text-decoration: none;
 
   &:hover {
     color: dodgerblue;
@@ -30,7 +34,7 @@ a,a:visited {
 }
 
 a.active {
-    background: black;
+    background: var(--theme-color);
     padding: 0.5rem;
     color: white;
     font-weight: bold;
@@ -78,4 +82,23 @@ pre {
 
 .date {
   opacity: 0.6;
+  color: #a79e8b;
+}
+
+.post-list{
+  margin: 0px;
+  padding: 0px;
+}
+
+.post-list li{
+  line-height: 45px;
+}
+
+.pagination{
+  color: var(--theme-color);
+  font-weight: inherit;
+}
+
+.article p {
+  color: #a79e8b;
 }
