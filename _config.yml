@@ -3,7 +3,7 @@ url: https://vmmoe.com
 title: KiRa-KiRa Sensation
 description: KiRa-KiRa Sensation
 twitter:
-  username: yourusername
+  username: you_know_who
   card: summary
 
 permalink: pretty
@@ -22,9 +22,6 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-sitemap  
 
 collections:
   pages:
