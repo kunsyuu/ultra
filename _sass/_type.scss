@@ -85,6 +85,7 @@ pre {
 
 .post-list li{
   line-height: 45px;
+  list-style: none;
 }
 
 .pagination{
@@ -94,9 +95,22 @@ pre {
 
 .date {
   opacity: 0.6;
-  color: #a79e8b;
+  color: var(--text-color);
 }
 
 .article p {
-  color: #a79e8b;
+  color: var(--text-color);
+}
+
+/* Twikoo */
+.tcomment {
+  height: auto;
+}
+
+.twikoo {
+  color: var(--text-color) !important;
+}
+
+.tk-submit .tk-avatar {
+  display: none;
 }

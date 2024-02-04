@@ -3,7 +3,8 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
-  --theme-color: #F08080
+  --theme-color: #F08080;
+  --text-color: #a79e8b;
 }
 body {
     margin: 0 auto;
@@ -13,7 +14,7 @@ body {
 
 strong, b, h1, h2, h3, h4 {
 	font-weight: bold;
-    color: #fff;
+    color: white;
 }
 
 hr {
