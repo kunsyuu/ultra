@@ -12,4 +12,4 @@ categories: Life
 
 搜索了很多网页、视频，终于在一个页面发现有个人提了一句，可以使用 _Telegram X_ 这个客户端来先登录，带有X后缀的这个客户端是可以发送短信验证码的。下载试了一下果然正常的接收到SMS短信验证码并成功登录，是一个完全空白的账号。随后再通过扫二维码登录windows版。这样就可以正常使用了。
 
-参考：https://github.com/TGX-Android/Telegram-X
+参考：<https://github.com/TGX-Android/Telegram-X>
