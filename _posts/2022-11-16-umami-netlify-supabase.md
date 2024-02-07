@@ -50,7 +50,7 @@ yarn install && yarn build
 
 点击Show advanced,点击New variable按钮新增三个参数。
 - DATABASE_URL	值为第一步中得到的数据库连接字符串
-- HASH_SALT		随意输入自定义字符串
+~~- HASH_SALT		随意输入自定义字符串~~
 - TRACKER_SCRIPT_NAME		如果浏览器安装有屏蔽广告插件，可能会阻止umami.js，这个参数是重命名这个js文件，避免被屏蔽而无法准确统计
 > 2023年5月22日更新：v2版本中默认脚本名称已变更为script.js。TRACKER_SCRIPT_NAME不再附加“.js”后缀，可能会造成找不到这个js文件而出现404错误。可以将这个参数设置为customName.js,自己添加".js"后缀。
 
