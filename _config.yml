@@ -1,7 +1,7 @@
-site: KiRa-KiRa Sensation
+site: Otaku
 url: https://vmmoe.com
-title: KiRa-KiRa Sensation
-description: KiRa-KiRa Sensation
+title: Otaku's Blog
+description: 宅 ~ 一场幻梦 ~
 
 permalink: pretty
 
@@ -26,7 +26,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:slug
+    permalink: /posts/:slug
 
 defaults:
   -
