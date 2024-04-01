@@ -16,3 +16,5 @@ title: About
 这个网站的访问速度可能比较慢，急性子慎入啊，网站需要优化的地方还有很多，但访问速度应该还在正常的忍受范围内吧。不妨让生活慢下来，无必要那么快的节奏。
 
 欢迎联系Email：admin@vmmoe.com
+
+{% include twikoo.html %}
