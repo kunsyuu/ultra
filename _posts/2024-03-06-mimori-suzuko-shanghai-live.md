@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 去看三森铃子上海演唱会
+title: 上海看樱花及看三森铃子演唱会
 date: 2024-03-16 10:51:50 +0800
 categories: Life
 ---
