@@ -1,0 +1,28 @@
+- class_name: 友情链接
+  class_desc: 欢迎添加友情链接,留言或者发Email都可以啊.
+  link_list:
+    - name: Vmmoe
+      link: https://vmmoe.com/
+      avatar: https://ucarecdn.com/4fc24eeb-f5f8-4a38-ab5f-46dd92d4e2a0/avatar.jpg
+      descr: 我的博客
+
+
+- class_name: 网站收藏
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Jekyll
+      link: https://jekyllrb.com/
+      avatar: https://ucarecdn.com/76a0353e-bce6-4c3d-8690-d3d0b23ab871/logojekyll.png
+      descr: 简洁易用的静态博客生成器
+    - name: Cloudflare
+      link: https://www.cloudflare.com/
+      avatar: https://ucarecdn.com/b0401056-2985-4530-ac01-37113cf5bf21/logocloudflare.jpg
+      descr: 互联网活菩萨
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
