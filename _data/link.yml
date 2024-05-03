@@ -1,10 +1,10 @@
 - class_name: 友情链接
   class_desc: 欢迎添加友情链接,留言或者发Email都可以啊.
   link_list:
-    - name: Vmmoe
+    - name: Daradara
       link: https://vmmoe.com/
       avatar: https://ucarecdn.com/4fc24eeb-f5f8-4a38-ab5f-46dd92d4e2a0/avatar.jpg
-      descr: 我的博客
+      descr: 散漫的日常
 
 
 - class_name: 网站收藏
