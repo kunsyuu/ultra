@@ -4,11 +4,11 @@
     - name: Daradara
       link: https://vmmoe.com/
       avatar: https://ucarecdn.com/4fc24eeb-f5f8-4a38-ab5f-46dd92d4e2a0/avatar.jpg
-      descr: 散漫的日常
+      descr: 记录悠闲的日常
 
 
 - class_name: 网站收藏
-  class_desc: 值得推荐的网站
+  class_desc: 值得推荐的网站和写的很好的博客.
   link_list:
     - name: Jekyll
       link: https://jekyllrb.com/
