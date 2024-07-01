@@ -60,7 +60,7 @@ title: Link
 <h2>我的博客</h2>
 ```
     - name: Daradara
-      link: https://vmmoe.com/
+      link: none
       avatar: https://ucarecdn.com/4fc24eeb-f5f8-4a38-ab5f-46dd92d4e2a0/avatar.jpg
       descr: 记录悠闲的日常
 ```
